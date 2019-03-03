@@ -10,5 +10,7 @@
 <body>
 <c:redirect url="/main.do"/>
 
+<% System.out.println("index 페이지 190303 수정 브랜치 테스트"); %>
+
 </body>
 </html>
