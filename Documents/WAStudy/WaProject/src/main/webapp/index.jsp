@@ -9,6 +9,6 @@
 </head>
 <body>
 <c:redirect url="/main.do"/>
-커밋 커밋 first
+커밋 커밋 first.... suji
 </body>
 </html>
