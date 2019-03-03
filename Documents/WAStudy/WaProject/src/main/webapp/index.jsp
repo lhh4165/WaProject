@@ -12,6 +12,4 @@
 커밋 커밋 first.... suji
 </body>
 
-</body>
-
 </html>
