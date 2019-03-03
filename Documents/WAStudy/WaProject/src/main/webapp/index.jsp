@@ -10,6 +10,8 @@
 <body>
 <c:redirect url="/main.do"/>
 커밋 커밋 first.... suji
+
+1. 커밋 연습  처음 처음  --- suji  !!!!!!!
 </body>
 
 </html>
